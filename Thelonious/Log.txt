@@ -85,3 +85,47 @@
 # Defeating the tarrasque
 + 8000 (Baseline)
 + 8000 (Fighting it hand-to-hand)
+
+# Fighting the frost dragon
++ 3000 (For witnessing the power of the chair!)
+
+# Watching the map
++ 2000 (For doing nothing!)
+
+# Searcing for the dragon
++ 500 (For finding the dragon)
+
+# On the iron dragon
++ 500 (For experiencing wind walking)
++ 150 (For watching the spaghetti drop)
++ 800 (For being in & around a constructed dragon)
+
+# On the dragon's head
++ 800 (For punching a hole in a dragons head)
+
+# Inside the dragon's head
++ 600 (For being ineffective)
++ 4000 (Big battle in the air!)
+
+# More fighting around the dragon bits
++ 500 (For fighting in the dragons head)
++ 500 (For being caught in the explosion)
++ 3000 (Big battle continues!)
+
+# More fighting!
++ 400 (Fighting the bird creature)
++ 800 (Stunning strike)
++ 4000 (More big battle!)
+
+# More More fighting!
++ 3000 (More fighting!)
++ 1000 (For repeatedly bonking the bird thing on the head)
+
+# More more more fighting!
++ 2000 (More fighting!)
++ 1000 (Hacking at the beetle's wings)
++ 400 (For seeing the electrical cloud!)
+
+# Finishing the fight!
++ 5000 (For general fighting)
++ 3500 (For stunning the multi-armed creature)

@@ -2,7 +2,7 @@
 
 XP: 134380
 Level: 13
-HP: 94 -20-36
+HP: 94 (-19 flaming sword) (-3 electricity)
 Hit recovery die: 1d8 (per monk level)
 Proficiency bonus: +5
 
@@ -36,22 +36,23 @@ Equipment:
 Martial art die (for unarmed strikes): 1d8
 Ki points:
     Total: 13
-    Remaining: 11
+    Remaining: 2
 
 Attack bonus:
-    - staff: +5 (dex) +4 (proficiency) = 9
-    - open hand: +5 (dex) +4 (proficiency) = 9
-    - knife: +5 (dex) +4 (proficiency) = 9
+    - staff: +5 (dex) +5 (proficiency) = 10
+    - open hand: +5 (dex) +5 (proficiency) = 10
+    - knife: +5 (dex) +5 (proficiency) = 10
 
 Damage:
     - staff (2-hand): 1d8 +5 (dex)
     - staff (1-hand): 1d6 +5 (dex)
-    - open hand:      1d6 (monk die) +5 (dex)
+    - open hand:      1d8 (monk die) +5 (dex)
     - knife:          1d4 +5 (dex)
 
 Monk things:
     (See PHB for details on regaining ki)
-    Unarmored defense: when wearing no armor & no shield, AC = 10 + dex modifier + wisdom bonus (18)
+    Unarmored defense:
+        when wearing no armor & no shield, AC = 10 + dex modifier + wisdom bonus (18)
     Martial arts (attacks):
         - Use dexterity instead of strengh for the attack + damage rolls of unarmed strikes + monk weapons
         - Roll the martial arts die in place of normal damage for unarmed strike or monk weapon
@@ -74,7 +75,7 @@ Monk things:
         - Can attack twice
     Stunning strike:
         - When hitting another creature with a melee weapon attack, spend one 1 ki point to attempt a stunning strike
-        - Target must succeed on a constitution saving throw, or be stunned until the end of your next turn.
+        - Target must succeed on a constitution saving throw (against Ki save DC!), or be stunned until the end of your next turn.
     Ki-empowered strikes:
         - Unarmed strikes count as magical for the purpose of overcoming resistance + immunity to non-magical attacks & damage
     Evasion:
@@ -116,7 +117,7 @@ Feats:
 
 
 #################################
-Calculations (on creation): 
+Calculations (on creation):
 
 Values for ability scores:
 6 + 5 + 4 + 6 = 17

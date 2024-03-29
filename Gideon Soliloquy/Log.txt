@@ -54,7 +54,7 @@ Item: +Magic Dagger (+1, +2 against evil creatures)
 # Pt. 2: The Time Cops
 + 100 (tower encounter) 
 + 450 (Battle in the kitchens) 
-+ 150 (weird experience) 
++ 150 (weird experience)
 + 30 (seeing the moonbeam spell)
 
 # Stabatha Christie
@@ -486,7 +486,7 @@ Item: Bottle of potion
 + 500 (For being sequestered)
 + 2 (For getting below quarter health for the first time)
 
-# Post-boat fight 
+# Post-boat fight
 + 30 (For hearing about the centre of orn)
 + 50 (For noting that the potion of revivify was for whoever was coming out of the citadel)
 + 550 (For the experiments around bonded weapons)
@@ -647,3 +647,52 @@ Item: Bottle of potion
 # Defeating the tarrasque
 + 8000 (Baseline)
 + 8000 (Fighting it hand-to-hand)
+
+# Fighting the frost dragon
++ 3000 (For witnessing the power of the chair!)
++ 6000 (For doing combat with the dragon + chair!)
+
+# Watching the map
++ 2000 (For doing nothing!)
++ 250 (For getting the scrolls)
+
+# Searcing for the dragon
++ 500 (For finding the dragon)
+
+# On the iron dragon
++ 100 (For saying it's a transformer)
++ 500 (For experiencing wind walking)
++ 50 (For brevity in the leaf message)
++ 150 (For watching the spaghetti drop)
++ 800 (For being in & around a constructed dragon)
+
+# In the dragon
++ 750 (For making the hole, and meeting hinge again)
+
+# Fighting around the dragon bits
++ 4000 (Big battle in the air!)
++ 1000 (For generally being effective at fighting)
+
+# More fighting around the dragon bits
++ 300 (Chasing people around)
++ 100 (For intimidating the priests into jumping off)
++ 3000 (Big battle continues!)
+
+# More fighting!
++ 20 (Attempted earthbind)
++ 400 (Fighting the bird creature)
++ 4000 (More big battle!)
+
+# More More fighting!
++ 3000 (More fighting!)
++ 600 (Damage to the bird creature)
+
+# More more more fighting!
++ 2000 (More fighting!)
++ 650 (Slapstick attacking the beetle)
++ 2000 (For hearing Orn)
++ 400 (For seeing the electrical cloud!)
+
+# Finishing the fight!
++ 5000 (For general fighting)
++ 1900 (For hitting things)
