@@ -129,3 +129,36 @@
 # Finishing the fight!
 + 5000 (For general fighting)
 + 3500 (For stunning the multi-armed creature)
+
+# After the fight
++ 500 (For witnessing raise dead on elpieda)
++ 400 (For the day)
+
+# More aftermath
++ 400 (For tackling the assassin/rogue)
++ 500 (For the "annoying" stunning strike)
+
+# Searching for the deacon's corpse
++ 500 (Generalised)
++ 100 (For investigating the barrier)
+
+# The big fight on the ground!
++ 8000 (For general fighting)
+
+# Searching for the deacon
++ 400 (For searching for the deacon)
++ 200 (For helping craft the message)
+
+# In the lonely forest
++ 1000 (For looking at, and talking to, the weird things)
++ 1500 (For fighting the boar)
++ 150 (For tracking)
+
+# Tracking hellhounds and giants
++ 1000 (general)
+
+# Fighting the fire giants + mythweavers
++ 1000 (For fighting the fire giants)
++ 1500 (For fighting the mythweavers)
++ 1000 (For using the wood wide web)
++ 500 (For trying to negotiate with the giant)

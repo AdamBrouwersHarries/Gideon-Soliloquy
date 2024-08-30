@@ -1,8 +1,8 @@
 # Thelonious (monk)
 
-XP: 134380
-Level: 13
-HP: 94 (-19 flaming sword) (-3 electricity)
+XP: 217980 (next 17 @ 225,000, 18 @ 265,000, 19 @ 305,000, 20 @ 355,000)
+Level: 16
+HP: 118 - 41 (Being hit by fire giant) - 1 (flying daggers)
 Hit recovery die: 1d8 (per monk level)
 Proficiency bonus: +5
 
@@ -10,7 +10,7 @@ Str: 11 (+2 in orn)                                             + 0
 Dex: 20 (+1 in orn) (17->19, goliath starter, modified by tasha's cauldron) + 5
 Cons: 13 (+2 in orn) (12->13, goliath starter)                  + 1
 Int: 14                                                         + 2
-Wis: 17                                                         + 3
+Wis: 19                                                         + 4
 Char: 8                                                         - 1
 
 Physical characteristics:
@@ -36,7 +36,7 @@ Equipment:
 Martial art die (for unarmed strikes): 1d8
 Ki points:
     Total: 13
-    Remaining: 2
+    Remaining: 7
 
 Attack bonus:
     - staff: +5 (dex) +5 (proficiency) = 10
@@ -52,12 +52,12 @@ Damage:
 Monk things:
     (See PHB for details on regaining ki)
     Unarmored defense:
-        when wearing no armor & no shield, AC = 10 + dex modifier + wisdom bonus (18)
+        when wearing no armor & no shield, AC = 10 + dex modifier + wisdom bonus (19)
     Martial arts (attacks):
         - Use dexterity instead of strengh for the attack + damage rolls of unarmed strikes + monk weapons
         - Roll the martial arts die in place of normal damage for unarmed strike or monk weapon
-        - When using "attack", can make one unarmed strike as a bonus action.
-    Ki save DC = 8 + proficiency bonus + wisdom modifier
+        - When using "attack", can make one unarmed strike zas a bonus action.
+    Ki save DC = 8 + proficiency bonus + wisdom modifier (17)
     Ki uses:
         Flurry of blows: After taking the attack action, spend 1 ki point to make two unarmed strikes (bonus action)
         Patient defense: Spend 1 ki point to take the dodge action as a bonus action on your turn
@@ -90,6 +90,11 @@ Monk things:
         - When in an aread of dim light or darkness, use an action to become invisible. Remain invisible until making an attack or enter bright light.
     Tongue of the Sun and Moon:
         - Understand all spoken languages, and any creature that can understand language can understand what I say.
+    Diamond Soul
+        -Beginning at 14th level, your mastery of ki grants you proficiency in all saving throws.
+        - Additionally, whenever you make a saving throw and fail, you can spend 1 ki point to reroll it and take the second result.
+    Timeless Body:
+        - At 15th level, your ki sustains you so that you suffer none of the frailty of old age, and you can't be aged magically. You can still die of old age, however. In addition, you no longer need food or water.
 
 
 Monastic tradition:

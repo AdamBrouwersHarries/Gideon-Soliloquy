@@ -696,3 +696,40 @@ Item: Bottle of potion
 # Finishing the fight!
 + 5000 (For general fighting)
 + 1900 (For hitting things)
+
+# After the fight
++ 150 (For helping to question the gaes'd individuals)
++ 200 (For convincing asparagus)
++ 500 (For witnessing raise dead on elpieda)
++ 400 (For the day)
+
+# More aftermath
++ 500 (For suggesting detect thoughts to find gaes'd people)
++ 400 (For tackling the assassin/rogue)
++ 200 (For a first cast of feather fall)
+
+# Searching for the deacon's corpse
++ 500 (Generalised)
++ 100 (For investigating the barrier)
+
+# The big fight on the ground!
++ 12000 (For general fighting)
+
+# Searching for the deacon
++ 400 (For searching for the deacon)
++ 200 (For helping craft the message)
+
+# In the lonely forest
++ 1000 (For looking at, and talking to, the weird things)
++ 1500 (For fighting the boar)
++ 50 (Absorb elements)
++ 150 (For tracking)
+
+# Tracking hellhounds and giants
++ 1000 (general)
+
+# Fighting the fire giants + mythweavers
++ 1000 (For fighting the fire giants)
++ 1500 (For fighting the mythweavers)
++ 1000 (For using the wood wide web)
++ 500 (For the superhero landing + flaming hands)

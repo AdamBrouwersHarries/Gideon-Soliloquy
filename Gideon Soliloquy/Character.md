@@ -1,18 +1,18 @@
 # Gideon Soliloquy
 
-XP: 188757 (next level, 16, 195,000xp)
-Level: 15
-HP: 200 (-21 flaming sword) (-12 fire damage) (-2 debris) (-2 cheese) (-5 electricity) (-5)
+XP: 281627 (next level 18 @ 265,000, 19 @ 305,000, 20 @ 355,000)
+Level: 18
+HP: 239 - 8 (Fire breath from Boar) - 22 (flying daggers)
 Hit recovery die: 5d10 (currently 5)
-Proficiency bonus: +5
+Proficiency bonus: +6
 
 Str:    20 (16->18, mnt Dwarf) (+2 in orn)                  +5 (+5 in orn)
     With fire giant strength potion: 25                     +7
     With fire giant strength potion: 29                     +9
-Dex:    15                    (+1 in orn)  (-1 in fire dim) +2 (+3 in orn)
+Dex:    16                    (+1 in orn)                   +3 (+3 in orn)
     (dexterity throws have adv with haste)
-Cons:   19 (17->19 mnt Dwarf) (+2 in orn)  (-2 in fire dim) +4 (+5 in orn)
-Int:    14                                 (-1 in fire dim) +2
+Cons:   21 (17->19 mnt Dwarf) (+2 in orn)                   +5 (+5 in orn)
+Int:    17                                                  +3
 Wis:    14                                                  +2
 Char:   10                                                  +1
 
@@ -32,6 +32,8 @@ Fighter things:
     - Action surge (Once per short rest, take an extra action on top of regular/bonus action)
     - Second Wind (Use a bonus action to regain hitpoints)
     - Indomitable (Reroll a failed saving throw) (1/2)
+    - Arcane Charge PHB p74
+    - At 15th level, you gain the ability to teleport up to 30 feet to an unoccupied space you can see when you use your Action Surge. You can teleport before or after the additional action.
 
 Feats:
     - Charger: (When dashing, use a bonus action to make one melee weapon attack, or shove a creature)
@@ -42,7 +44,7 @@ Magic things:
     - Attack roll = spellcasting modifier (Int) + proficiency
 GP: 84
 
-Attack Bonus: 
+Attack Bonus:
     - sword:                  +5 (str) +5 (proficiency) +2 (sword) = 12
     - giant str potion:       +8 (str) +5 (proficiency) +2 (sword) = 13
     - storm giant str potion: +10 (str) +5 (proficiency) +2 (sword) = 17
@@ -73,6 +75,7 @@ Equipment:
     - 1x potion (1 dose) of "SuperHeroism"
     - +2 Magic longsword (from "evil party" of gith)
     - Flying cape (60ft per round)
+    - +3 Magic "coldsword"
 
 Spells:
     - Blade Ward         (action),   (Cantrip), (V, S)
@@ -91,8 +94,8 @@ Spells:
 
 Spell slots:
     - Unlimited cantrips
-    - 4 first level  (0 left)
-    - 3 second level (0 left)
+    - 4 first level  (3 left)
+    - 3 second level (2 left)
     - 2 third level  (2 left)
 
 (9 spells known)
@@ -339,7 +342,7 @@ Spell attack modifier = your proficiency bonus + your Intelligence  modifier
 
 ### Weapon Bond 
 At 3rd level, you learn a ritual that creates a magical bond between yourself and one weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. The weapon must be within your reach throughout the ritual, at the conclusion of which you touch the weapon and forge the bond. 
-Once you have bonded a weapon to yourself, you can't be disarmed of that weapon unless you are incapacitated. If it is on the same plane of existence, you can summon that weapon as a bonus action on your turn, causing it to teleport instantly to your hand. 
+Once you have bonded a weapon to yourself, you can't be disarmed of that weapon unless you are incapacitated. If it is on the same plane of existence, you can summon that weapon as a bonus action on your turn, causing it to teleport instantly to your hand.
 You can have up to two bonded weapons, but can summon only one at a time with your bonus action. If you attempt to bond with a third weapon, you must break the bond with one of the other two.
 
 ### War Magic PHB p74 
@@ -348,7 +351,7 @@ Beginning at 7th level, when you use your action to cast a cantrip, you can make
 ### Eldritch Strike PHB p74
 At 10th level, you learn how to make your weapon strikes undercut a creature's resistance to your spells. When you hit a creature with a weapon attack, that creature has disadvantage on the next saving throw it makes against a spell you cast before the end of your next turn.
 
-### Arcane Charge PHB p74 
+### Arcane Charge PHB p74
 At 15th level, you gain the ability to teleport up to 30 feet to an unoccupied space you can see when you use your Action Surge. You can teleport before or after the additional action.
 
 ### Improved War Magic PHB p74 
@@ -358,7 +361,7 @@ Starting at 18th level, when you use your action to cast a spell, you can make o
 ##           Fighter PHB p72            ##
 ## #################################### ##
 
-### Fighting Style PHB p72 
+### Fighting Style PHB p72
 You adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take the same Fighting Style option more than once, even if you get to choose again.
 
 Archery 
@@ -399,10 +402,10 @@ Beginning at 5th level, you can attack twice, instead of once, whenever you take
 The number of attacks increases to three when you reach 11th level in this class and to four when you reach 20th level in this class.
 
 ### Ability Score Improvement PHB p72 
-When you reach 6th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. 
+When you reach 6th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 If your DM allows the use of feats, you may instead take a feat.
 
-### Martial Archetype feature PHB p72 
+### Martial Archetype feature PHB p72
 At 7th level, you gain a feature granted by your Martial Archetype.
 
 ### Ability Score Improvement PHB p72 
@@ -434,13 +437,13 @@ If your DM allows the use of feats, you may instead take a feat.
 At 15th level, you gain a feature granted by your Martial Archetype.
 
 ### Ability Score Improvement PHB p72 
-When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. 
+When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 If your DM allows the use of feats, you may instead take a feat.
 
-### Action Surge (two uses) PHB p72 
+### Action Surge (two uses) PHB p72
 At 17th level, you can use Action Surge twice before a rest, but only once on the same turn.
 
-### Indomitable (three uses) PHB p72 
+### Indomitable (three uses) PHB p72
 At 17th level, you can use Indomitable three times between long rests.
 
 ### Martial Archetype feature PHB p72 
