@@ -2,7 +2,7 @@
 
 XP: 281627 (next level 18 @ 265,000, 19 @ 305,000, 20 @ 355,000)
 Level: 18
-HP: 239 - 8 (Fire breath from Boar) - 22 (flying daggers)
+HP: 239 - 8 (Fire breath from Boar) - 22 (flying daggers) - 24 (Fire giant attack) - 33 (Fire giant attack) - 51 (Fire giant attack)
 Hit recovery die: 5d10 (currently 5)
 Proficiency bonus: +6
 
@@ -45,9 +45,9 @@ Magic things:
 GP: 84
 
 Attack Bonus:
-    - sword:                  +5 (str) +5 (proficiency) +2 (sword) = 12
-    - giant str potion:       +8 (str) +5 (proficiency) +2 (sword) = 13
-    - storm giant str potion: +10 (str) +5 (proficiency) +2 (sword) = 17
+    - sword:                  +5 (str) +6 (proficiency) +2 (sword) = 13
+    - giant str potion:       +8 (str) +6 (proficiency) +2 (sword) = 14
+    - storm giant str potion: +10 (str) +6 (proficiency) +2 (sword) = 18
 
 Damage Bonus:
     - simple:                  +5 (str) +2 (sword) = 7
@@ -55,9 +55,9 @@ Damage Bonus:
     - storm giant str potion:  +10 (str) +2 (sword) = 12
 
 Equipment:
-    - Plate Mail armour (AC 18)
     - Mithril Armour (+4 chain - AC 20, no stealth disadvantage, no min strength) (24 total AC)
         - Total AC 24 (AC20 + 1 (defense) + 3 (dex))
+    - Plate Mail armour (AC 18)
     - Battle axe (With an upgraded handle)
     - Simple Wooden Shield (+2)
     - Explorer's pack
@@ -341,7 +341,7 @@ Spell save DC = 8 + your proficiency bonus + your Intelligence modifier
 Spell attack modifier = your proficiency bonus + your Intelligence  modifier
 
 ### Weapon Bond 
-At 3rd level, you learn a ritual that creates a magical bond between yourself and one weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. The weapon must be within your reach throughout the ritual, at the conclusion of which you touch the weapon and forge the bond. 
+At 3rd level, you learn a ritual that creates a magical bond between yourself and one weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. The weapon must be within your reach throughout the ritual, at the conclusion of which you touch the weapon and forge the bond.
 Once you have bonded a weapon to yourself, you can't be disarmed of that weapon unless you are incapacitated. If it is on the same plane of existence, you can summon that weapon as a bonus action on your turn, causing it to teleport instantly to your hand.
 You can have up to two bonded weapons, but can summon only one at a time with your bonus action. If you attempt to bond with a third weapon, you must break the bond with one of the other two.
 
@@ -354,7 +354,7 @@ At 10th level, you learn how to make your weapon strikes undercut a creature's r
 ### Arcane Charge PHB p74
 At 15th level, you gain the ability to teleport up to 30 feet to an unoccupied space you can see when you use your Action Surge. You can teleport before or after the additional action.
 
-### Improved War Magic PHB p74 
+### Improved War Magic PHB p74
 Starting at 18th level, when you use your action to cast a spell, you can make one weapon attack as a bonus action.
 
 ## #################################### ##

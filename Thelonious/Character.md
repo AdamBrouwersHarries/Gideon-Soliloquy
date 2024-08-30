@@ -2,7 +2,7 @@
 
 XP: 217980 (next 17 @ 225,000, 18 @ 265,000, 19 @ 305,000, 20 @ 355,000)
 Level: 16
-HP: 118 - 41 (Being hit by fire giant) - 1 (flying daggers)
+HP: 118 - 41 (Being hit by fire giant) - 1 (flying daggers) - 18 (Being hit by fire giant)
 Hit recovery die: 1d8 (per monk level)
 Proficiency bonus: +5
 
@@ -36,7 +36,7 @@ Equipment:
 Martial art die (for unarmed strikes): 1d8
 Ki points:
     Total: 13
-    Remaining: 7
+    Remaining: 5
 
 Attack bonus:
     - staff: +5 (dex) +5 (proficiency) = 10

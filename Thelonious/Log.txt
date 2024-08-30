@@ -162,3 +162,6 @@
 + 1500 (For fighting the mythweavers)
 + 1000 (For using the wood wide web)
 + 500 (For trying to negotiate with the giant)
+
+# More fighting in the forest!
++ 12000 (For thumping things!)

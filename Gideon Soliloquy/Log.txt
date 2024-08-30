@@ -197,12 +197,12 @@ Money: 5 gp from hinge
 + 200 (General planning r.e. the sequestery etc)
 + 150 (Meeting the aztec god quetzalcoatl)
 + 1000 (Taking magic meth and fighting a dragon)
-Item: 9 dragon scales 
+Item: 9 dragon scales
 Item: 6 suits of armour worth of wing 
 Item: 4 teeth
 Item: 5 claws
 
-# Futzing about after the dragon 
+# Futzing about after the dragon
 + 600 (For going to the winterhome)
 + 200 (Butchery of the dragon)
 
