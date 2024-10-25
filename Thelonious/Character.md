@@ -4,7 +4,7 @@ XP: 231480 (next 18 @ 265,000, 19 @ 305,000, 20 @ 355,000)
 Level: 17
 HP: 125
 Hit recovery die: 1d8 (per monk level)
-Proficiency bonus: +5
+Proficiency bonus: +6
 
 Str: 11 (+2 in orn)                                             + 0
 Dex: 20 (+1 in orn) (17->19, goliath starter, modified by tasha's cauldron) + 5
@@ -32,6 +32,7 @@ Equipment:
     - A hand carved walking staff (counts as a quaterstaff, 1d6 bludgeoning, versatile 1d8)
     - Explorer's pack
     - 10 darts (1d4 piercing, finesse, thrown 20/60)
+    - 18 doses of yew needle poison
 
 Martial art die (for unarmed strikes): 1d8
 Ki points:
