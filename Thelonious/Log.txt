@@ -165,3 +165,7 @@
 
 # More fighting in the forest!
 + 12000 (For thumping things!)
+
+# Even more fighting in the forest!
++ 500 (For talking to the giant)
++ 1000 (For winning the fight!)

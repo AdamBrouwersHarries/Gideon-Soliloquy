@@ -733,3 +733,13 @@ Item: Bottle of potion
 + 1500 (For fighting the mythweavers)
 + 1000 (For using the wood wide web)
 + 500 (For the superhero landing + flaming hands)
+
+# More fighting in the forest!
++ 12000 (For thumping things!)
+
+# Even more fighting in the forest!
++ 6000 (For fighting the giants)
++ 2000 (For quelling the giant)
++ 400 (For watching the giant snail fight the fire giants)
++ 500 (For watching the demise of the hellhounds)
++ 1000 (For winning the fight!)

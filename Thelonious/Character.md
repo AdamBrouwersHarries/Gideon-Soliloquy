@@ -1,8 +1,8 @@
 # Thelonious (monk)
 
-XP: 217980 (next 17 @ 225,000, 18 @ 265,000, 19 @ 305,000, 20 @ 355,000)
-Level: 16
-HP: 118 - 41 (Being hit by fire giant) - 1 (flying daggers) - 18 (Being hit by fire giant)
+XP: 231480 (next 18 @ 265,000, 19 @ 305,000, 20 @ 355,000)
+Level: 17
+HP: 125
 Hit recovery die: 1d8 (per monk level)
 Proficiency bonus: +5
 
@@ -36,7 +36,7 @@ Equipment:
 Martial art die (for unarmed strikes): 1d8
 Ki points:
     Total: 13
-    Remaining: 5
+    Remaining:3
 
 Attack bonus:
     - staff: +5 (dex) +5 (proficiency) = 10
@@ -95,6 +95,8 @@ Monk things:
         - Additionally, whenever you make a saving throw and fail, you can spend 1 ki point to reroll it and take the second result.
     Timeless Body:
         - At 15th level, your ki sustains you so that you suffer none of the frailty of old age, and you can't be aged magically. You can still die of old age, however. In addition, you no longer need food or water.
+    Opportunist:
+        - At 17th level, you can exploit a creature's momentary distraction when it is hit by an attack. Whenever a creature within 5 feet of you is hit by an attack made by a creature other than you, you can use your reaction to make a melee attack against that creature.
 
 
 Monastic tradition:

@@ -1,8 +1,8 @@
 # Gideon Soliloquy
 
-XP: 281627 (next level 18 @ 265,000, 19 @ 305,000, 20 @ 355,000)
+XP: 303527 (19 @ 305,000, 20 @ 355,000)
 Level: 18
-HP: 239 - 8 (Fire breath from Boar) - 22 (flying daggers) - 24 (Fire giant attack) - 33 (Fire giant attack) - 51 (Fire giant attack)
+HP: 239
 Hit recovery die: 5d10 (currently 5)
 Proficiency bonus: +6
 
@@ -398,7 +398,7 @@ When you reach 4th level, you can increase one ability score of your choice by 2
 If your DM allows the use of feats, you may instead take a feat.
 
 ### Extra Attack PHB p72 
-Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn. 
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 The number of attacks increases to three when you reach 11th level in this class and to four when you reach 20th level in this class.
 
 ### Ability Score Improvement PHB p72 
