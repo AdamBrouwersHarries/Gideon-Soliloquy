@@ -743,3 +743,8 @@ Item: Bottle of potion
 + 400 (For watching the giant snail fight the fire giants)
 + 500 (For watching the demise of the hellhounds)
 + 1000 (For winning the fight!)
+
+# In the ent's stronghold
++ 800 (For finding out about the stronghold)
++ 400 (For the gaes of the fire giant)
++ 500 (For witnessing the march of the ents)
