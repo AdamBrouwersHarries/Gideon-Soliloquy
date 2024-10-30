@@ -76,6 +76,7 @@ Equipment:
     - +2 Magic longsword (from "evil party" of gith)
     - Flying cape (60ft per round)
     - +3 Magic "coldsword"
+    - Scroll of GAES and scroll of GATE
 
 Spells:
     - Blade Ward         (action),   (Cantrip), (V, S)
