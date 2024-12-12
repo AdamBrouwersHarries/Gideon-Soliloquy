@@ -748,3 +748,15 @@ Item: Bottle of potion
 + 800 (For finding out about the stronghold)
 + 400 (For the gaes of the fire giant)
 + 500 (For witnessing the march of the ents)
+
+# Helping the ents with the blight
++ 4000 (For watching the fight between the ents and the blight)
++ 500 (For making friends with the kobold(s))
+
+# Back in Seguro
++ 800 (For ???)
+
+# Back in Bar-Alda
++ 500 (Talking to orcino)
++ 100 (For drinking some beer!)
++ 300 (For discussion of what to do!)

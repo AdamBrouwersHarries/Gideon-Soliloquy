@@ -1,8 +1,8 @@
 # Gideon Soliloquy
 
 XP: 303527 (19 @ 305,000, 20 @ 355,000)
-Level: 18
-HP: 239
+Level: 19
+HP: 253
 Hit recovery die: 5d10 (currently 5)
 Proficiency bonus: +6
 
@@ -12,7 +12,7 @@ Str:    20 (16->18, mnt Dwarf) (+2 in orn)                  +5 (+5 in orn)
 Dex:    16                    (+1 in orn)                   +3 (+3 in orn)
     (dexterity throws have adv with haste)
 Cons:   21 (17->19 mnt Dwarf) (+2 in orn)                   +5 (+5 in orn)
-Int:    17                                                  +3
+Int:    19                                                  +4
 Wis:    14                                                  +2
 Char:   10                                                  +1
 
@@ -451,7 +451,7 @@ At 17th level, you can use Indomitable three times between long rests.
 At 18th level, you gain a feature granted by your Martial Archetype.
 
 ### Ability Score Improvement PHB p72 
-When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. 
+When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 If your DM allows the use of feats, you may instead take a feat.
 
 ### Extra Attack (3) PHB p72 
