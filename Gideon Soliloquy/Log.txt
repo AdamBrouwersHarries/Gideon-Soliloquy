@@ -760,3 +760,9 @@ Item: Bottle of potion
 + 500 (Talking to orcino)
 + 100 (For drinking some beer!)
 + 300 (For discussion of what to do!)
+
+# In chaffinch's inner sanctum
++ 500 (For saving the wisdom thing)
++ 500 (For casting intellect fortress on llewellen)
++ 1000 (For flying up to fight the little creatures)
++ 4000 (For achieving the quest)

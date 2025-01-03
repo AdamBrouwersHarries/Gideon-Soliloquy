@@ -1,12 +1,12 @@
 # Gideon Soliloquy
 
-XP: 303527 (19 @ 305,000, 20 @ 355,000)
+XP: 317427 (19 @ 305,000, 20 @ 355,000)
 Level: 19
-HP: 253
+HP: 253 - (19 * 2 = 38) - 2
 Hit recovery die: 5d10 (currently 5)
 Proficiency bonus: +6
 
-Str:    20 (16->18, mnt Dwarf) (+2 in orn)                  +5 (+5 in orn)
+Str:    20 (16->18, mnt Dwarf) (+2 for being a dwarf)       +5 (+5 in orn)
     With fire giant strength potion: 25                     +7
     With fire giant strength potion: 29                     +9
 Dex:    16                    (+1 in orn)                   +3 (+3 in orn)
@@ -15,6 +15,12 @@ Cons:   21 (17->19 mnt Dwarf) (+2 in orn)                   +5 (+5 in orn)
 Int:    19                                                  +4
 Wis:    14                                                  +2
 Char:   10                                                  +1
+
+(outside orn:
+    -2 con,
+    -1 dex,
+    -1 int
+)
 
 Skills:
     - Athletics (Str)
@@ -95,9 +101,10 @@ Spells:
 
 Spell slots:
     - Unlimited cantrips
-    - 4 first level  (3 left)
-    - 3 second level (2 left)
-    - 2 third level  (2 left)
+    - 4 first level  (4 left)
+    - 3 second level (3 left)
+    - 3 third level  (2 left)
+    - 1 fourth level (1 left)
 
 (9 spells known)
 
