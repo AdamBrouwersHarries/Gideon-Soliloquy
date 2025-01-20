@@ -766,3 +766,7 @@ Item: Bottle of potion
 + 500 (For casting intellect fortress on llewellen)
 + 1000 (For flying up to fight the little creatures)
 + 4000 (For achieving the quest)
+
+# On the way to chase Quorian
++ 1000 (For figuring stuff out)
++ 500 (For crossing the rope bridge)
